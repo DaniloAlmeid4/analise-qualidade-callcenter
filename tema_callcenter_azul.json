@@ -1,0 +1,89 @@
+{
+  "name": "Call Center Azul Corporativo",
+  "dataColors": [
+    "#185FA5",
+    "#1D9E75",
+    "#EF9F27",
+    "#E24B4A",
+    "#7F77DD",
+    "#378ADD",
+    "#639922",
+    "#D85A30"
+  ],
+  "background": "#E6F1FB",
+  "foreground": "#0C447C",
+  "tableAccent": "#185FA5",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize":   [{ "value": 11 }],
+        "color":      [{ "solid": { "color": "#0C447C" } }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "solid": { "color": "#E6F1FB" } }]
+      }
+    },
+    "card": {
+      "*": {
+        "background":       [{ "solid": { "color": "#FFFFFF" } }],
+        "border":           [{ "solid": { "color": "#B5D4F4" } }],
+        "dataLabelFontSize":[{ "value": 22 }],
+        "labelFontSize":    [{ "value": 11 }],
+        "labelColor":       [{ "solid": { "color": "#185FA5" } }],
+        "dataLabelColor":   [{ "solid": { "color": "#0C447C" } }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background":      [{ "solid": { "color": "#FFFFFF" } }],
+        "axisLabelColor":  [{ "solid": { "color": "#185FA5" } }],
+        "gridlineColor":   [{ "solid": { "color": "#B5D4F4" } }],
+        "dataLabelColor":  [{ "solid": { "color": "#FFFFFF" } }]
+      }
+    },
+    "clusteredBarChart": {
+      "*": {
+        "background":     [{ "solid": { "color": "#FFFFFF" } }],
+        "axisLabelColor": [{ "solid": { "color": "#185FA5" } }],
+        "gridlineColor":  [{ "solid": { "color": "#B5D4F4" } }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background":     [{ "solid": { "color": "#FFFFFF" } }],
+        "axisLabelColor": [{ "solid": { "color": "#185FA5" } }],
+        "gridlineColor":  [{ "solid": { "color": "#B5D4F4" } }],
+        "strokeWidth":    [{ "value": 2 }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background":         [{ "solid": { "color": "#FFFFFF" } }],
+        "headerBackground":   [{ "solid": { "color": "#E6F1FB" } }],
+        "headerFontColor":    [{ "solid": { "color": "#185FA5" } }],
+        "fontColor":          [{ "solid": { "color": "#0C447C" } }],
+        "gridColor":          [{ "solid": { "color": "#B5D4F4" } }],
+        "accentColor":        [{ "solid": { "color": "#185FA5" } }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background":     [{ "solid": { "color": "#FFFFFF" } }],
+        "fontColor":      [{ "solid": { "color": "#0C447C" } }],
+        "headerFontColor":[{ "solid": { "color": "#185FA5" } }],
+        "outlineColor":   [{ "solid": { "color": "#B5D4F4" } }]
+      }
+    },
+    "title": {
+      "*": {
+        "fontColor":     [{ "solid": { "color": "#FFFFFF" } }],
+        "background":    [{ "solid": { "color": "#0C447C" } }],
+        "fontSize":      [{ "value": 14 }],
+        "fontFamily":    [{ "value": "Segoe UI" }]
+      }
+    }
+  }
+}

@@ -1,0 +1,201 @@
+﻿AVAYALOGIN,NOME,SUPERVISOR,SEGMENTO,TURNO,TEMPODECASA,STATUS
+5510001,Dr. Enzo Gabriel Viana,Supervisor 6,Segmento 1,Manhã,até 1 ano,Ativo
+5510002,Dra. Manuella Sampaio,Supervisor 2,Segmento 3,Manhã,até 30 dias,Férias
+5510003,Ana Vitória Caldeira,Supervisor 4,Segmento 2,Manhã,até 30 dias,Ativo
+5510004,Camila Barbosa,Supervisor 2,Segmento 3,Tarde,mais de 1 ano,Ativo
+5510005,Joaquim Vargas,Supervisor 4,Segmento 1,Manhã,até 6 meses,Afastado
+5510006,Mariah Barbosa,Supervisor 4,Segmento 1,Noite,até 6 meses,Ativo
+5510007,Luara Sampaio,Supervisor 7,Segmento 4,Manhã,até 30 dias,Ativo
+5510008,João Pedro Silveira,Supervisor 1,Segmento 1,Noite,até 1 ano,Ativo
+5510009,Theo Novais,Supervisor 6,Segmento 1,Manhã,mais de 1 ano,Ativo
+5510010,Théo Camargo,Supervisor 5,Segmento 3,Noite,até 6 meses,Afastado
+5510011,Enzo Costela,Supervisor 1,Segmento 3,Tarde,até 1 ano,Ativo
+5510012,Liz Guerra,Supervisor 7,Segmento 3,Manhã,mais de 1 ano,Ativo
+5510013,Ana Campos,Supervisor 4,Segmento 1,Tarde,até 1 ano,Ativo
+5510014,Dra. Ana Carolina Porto,Supervisor 2,Segmento 2,Manhã,até 6 meses,Férias
+5510015,Gabriela Caldeira,Supervisor 6,Segmento 1,Tarde,mais de 1 ano,Ativo
+5510016,Olívia Mendes,Supervisor 3,Segmento 3,Tarde,até 1 ano,Ativo
+5510017,Davi Miguel Guerra,Supervisor 2,Segmento 3,Noite,mais de 1 ano,Ativo
+5510018,Nathan Novaes,Supervisor 1,Segmento 3,Noite,até 6 meses,Afastado
+5510019,Otávio Pinto,Supervisor 4,Segmento 1,Madrugada,até 6 meses,Ativo
+5510020,Léo Albuquerque,Supervisor 2,Segmento 3,Noite,mais de 1 ano,Férias
+5510021,Lívia Castro,Supervisor 4,Segmento 1,Tarde,até 6 meses,Férias
+5510022,Alice Silva,Supervisor 4,Segmento 2,Manhã,até 30 dias,Ativo
+5510023,Manuella da Cruz,Supervisor 6,Segmento 1,Madrugada,até 30 dias,Ativo
+5510024,Nathan Costa,Supervisor 4,Segmento 1,Noite,até 30 dias,Afastado
+5510025,João Vitor Teixeira,Supervisor 6,Segmento 1,Noite,até 1 ano,Ativo
+5510026,Isabelly Monteiro,Supervisor 3,Segmento 4,Tarde,mais de 1 ano,Ativo
+5510027,Mirella Freitas,Supervisor 6,Segmento 2,Noite,até 6 meses,Férias
+5510028,Sra. Maria Alice Pimenta,Supervisor 1,Segmento 1,Tarde,até 6 meses,Ativo
+5510029,Sr. Francisco Jesus,Supervisor 7,Segmento 3,Manhã,até 1 ano,Ativo
+5510030,Rhavi Peixoto,Supervisor 1,Segmento 3,Noite,até 1 ano,Ativo
+5510031,Bárbara da Conceição,Supervisor 1,Segmento 3,Manhã,até 30 dias,Afastado
+5510032,Enzo Silveira,Supervisor 4,Segmento 2,Tarde,até 6 meses,Afastado
+5510033,Davi Lucca Almeida,Supervisor 4,Segmento 2,Noite,mais de 1 ano,Ativo
+5510034,Yan Campos,Supervisor 5,Segmento 4,Noite,mais de 1 ano,Afastado
+5510035,Ana Beatriz Vasconcelos,Supervisor 6,Segmento 1,Madrugada,mais de 1 ano,Ativo
+5510036,Liam Ribeiro,Supervisor 2,Segmento 3,Manhã,até 1 ano,Ativo
+5510037,Emilly Cavalcante,Supervisor 5,Segmento 4,Tarde,até 30 dias,Ativo
+5510038,Ana Carvalho,Supervisor 6,Segmento 2,Manhã,até 6 meses,Ativo
+5510039,Davi Lucca Alves,Supervisor 1,Segmento 1,Manhã,até 6 meses,Ativo
+5510040,Henrique Santos,Supervisor 6,Segmento 1,Tarde,até 6 meses,Afastado
+5510041,Marcos Vinicius das Neves,Supervisor 5,Segmento 3,Tarde,mais de 1 ano,Ativo
+5510042,Ana Júlia Santos,Supervisor 2,Segmento 3,Manhã,mais de 1 ano,Ativo
+5510043,Benício da Cunha,Supervisor 4,Segmento 1,Madrugada,até 30 dias,Afastado
+5510044,Dra. Laís Gomes,Supervisor 6,Segmento 2,Manhã,até 30 dias,Ativo
+5510045,Sra. Olívia Ferreira,Supervisor 6,Segmento 1,Manhã,até 6 meses,Ativo
+5510046,Gabriela Costela,Supervisor 2,Segmento 2,Tarde,mais de 1 ano,Ativo
+5510047,Ana Carolina Dias,Supervisor 3,Segmento 4,Tarde,até 30 dias,Ativo
+5510048,Eloá Vargas,Supervisor 7,Segmento 3,Manhã,até 30 dias,Ativo
+5510049,Dr. Rafael da Cunha,Supervisor 7,Segmento 3,Tarde,mais de 1 ano,Ativo
+5510050,Heloisa Mendonça,Supervisor 4,Segmento 2,Madrugada,até 30 dias,Ativo
+5510051,Rebeca Aragão,Supervisor 4,Segmento 2,Madrugada,até 1 ano,Ativo
+5510052,Rafaela Borges,Supervisor 3,Segmento 4,Madrugada,até 6 meses,Ativo
+5510053,Isabela Campos,Supervisor 3,Segmento 4,Manhã,até 30 dias,Afastado
+5510054,Valentim Fernandes,Supervisor 3,Segmento 4,Manhã,mais de 1 ano,Férias
+5510055,Ana Pinto,Supervisor 7,Segmento 3,Manhã,até 30 dias,Ativo
+5510056,João Gabriel Aparecida,Supervisor 1,Segmento 3,Tarde,mais de 1 ano,Ativo
+5510057,Ravy Gomes,Supervisor 5,Segmento 4,Manhã,até 30 dias,Ativo
+5510058,João Guilherme Vieira,Supervisor 6,Segmento 2,Noite,até 1 ano,Ativo
+5510059,Nathan Brito,Supervisor 6,Segmento 2,Noite,até 6 meses,Ativo
+5510060,Daniel Fonseca,Supervisor 4,Segmento 2,Noite,mais de 1 ano,Ativo
+5510061,Vitória Teixeira,Supervisor 7,Segmento 3,Manhã,mais de 1 ano,Férias
+5510062,Eloah Teixeira,Supervisor 5,Segmento 4,Manhã,até 6 meses,Férias
+5510063,Maria Sophia Fonseca,Supervisor 3,Segmento 4,Noite,até 30 dias,Ativo
+5510064,Dra. Fernanda Pacheco,Supervisor 3,Segmento 4,Tarde,mais de 1 ano,Férias
+5510065,Carlos Eduardo Pires,Supervisor 6,Segmento 1,Manhã,até 1 ano,Afastado
+5510066,Ana Cecília Aparecida,Supervisor 1,Segmento 3,Noite,até 30 dias,Ativo
+5510067,Ana Beatriz Câmara,Supervisor 6,Segmento 2,Tarde,até 1 ano,Ativo
+5510068,Léo Novais,Supervisor 5,Segmento 4,Noite,até 6 meses,Afastado
+5510069,Dante Ramos,Supervisor 6,Segmento 1,Madrugada,até 1 ano,Ativo
+5510070,Maria Julia Duarte,Supervisor 1,Segmento 1,Noite,até 30 dias,Ativo
+5510071,Luiz Gustavo Silveira,Supervisor 3,Segmento 4,Noite,até 6 meses,Afastado
+5510072,Ana Liz Lima,Supervisor 4,Segmento 1,Manhã,até 30 dias,Ativo
+5510073,Maria Alice Porto,Supervisor 6,Segmento 1,Manhã,até 1 ano,Férias
+5510074,Maria Flor Correia,Supervisor 5,Segmento 4,Madrugada,até 6 meses,Ativo
+5510075,Allana Novaes,Supervisor 3,Segmento 4,Manhã,até 1 ano,Ativo
+5510076,Dante Monteiro,Supervisor 6,Segmento 1,Manhã,até 1 ano,Férias
+5510077,Caio Moura,Supervisor 7,Segmento 4,Tarde,até 6 meses,Ativo
+5510078,Caroline da Rocha,Supervisor 7,Segmento 3,Madrugada,até 30 dias,Ativo
+5510079,Alice Moura,Supervisor 6,Segmento 1,Madrugada,até 6 meses,Ativo
+5510080,Alícia Mendes,Supervisor 2,Segmento 3,Madrugada,até 30 dias,Ativo
+5510081,Erick Gonçalves,Supervisor 2,Segmento 3,Madrugada,até 1 ano,Ativo
+5510082,Gael Henrique Lima,Supervisor 7,Segmento 3,Tarde,até 30 dias,Afastado
+5510083,Dra. Maria Flor Camargo,Supervisor 2,Segmento 2,Noite,até 1 ano,Ativo
+5510084,Bento Abreu,Supervisor 7,Segmento 4,Noite,mais de 1 ano,Afastado
+5510085,Bernardo da Rocha,Supervisor 7,Segmento 4,Manhã,até 30 dias,Ativo
+5510086,Sra. Maria Luísa Carvalho,Supervisor 2,Segmento 2,Manhã,até 30 dias,Férias
+5510087,Laís Moreira,Supervisor 4,Segmento 1,Noite,mais de 1 ano,Férias
+5510088,Maria Aragão,Supervisor 5,Segmento 4,Madrugada,até 6 meses,Ativo
+5510089,Noah Almeida,Supervisor 1,Segmento 1,Manhã,até 6 meses,Ativo
+5510090,Luiz Gustavo Câmara,Supervisor 4,Segmento 2,Noite,até 1 ano,Afastado
+5510091,Henrique Freitas,Supervisor 7,Segmento 3,Noite,até 1 ano,Afastado
+5510092,João Lucas Machado,Supervisor 4,Segmento 1,Madrugada,até 1 ano,Férias
+5510093,Luiza Vargas,Supervisor 2,Segmento 3,Madrugada,mais de 1 ano,Afastado
+5510094,Dr. Kaique Moreira,Supervisor 6,Segmento 1,Noite,mais de 1 ano,Férias
+5510095,Maria Liz Silveira,Supervisor 7,Segmento 3,Noite,até 1 ano,Ativo
+5510096,Gustavo Henrique Caldeira,Supervisor 4,Segmento 1,Madrugada,mais de 1 ano,Ativo
+5510097,Alícia da Costa,Supervisor 6,Segmento 1,Madrugada,até 6 meses,Afastado
+5510098,Ana Carolina Alves,Supervisor 1,Segmento 1,Noite,até 30 dias,Ativo
+5510099,Vicente Garcia,Supervisor 6,Segmento 1,Tarde,até 6 meses,Ativo
+5510100,Ana Freitas,Supervisor 1,Segmento 3,Tarde,mais de 1 ano,Férias
+5510101,André Dias,Supervisor 7,Segmento 3,Madrugada,mais de 1 ano,Afastado
+5510102,Oliver Oliveira,Supervisor 5,Segmento 4,Madrugada,mais de 1 ano,Ativo
+5510103,Rhavi Rezende,Supervisor 2,Segmento 3,Manhã,até 30 dias,Ativo
+5510104,Joana Carvalho,Supervisor 2,Segmento 3,Madrugada,até 30 dias,Férias
+5510105,Thales Ramos,Supervisor 2,Segmento 3,Madrugada,até 6 meses,Ativo
+5510106,Arthur Gabriel Marques,Supervisor 6,Segmento 2,Noite,mais de 1 ano,Férias
+5510107,Yuri Azevedo,Supervisor 7,Segmento 4,Madrugada,até 6 meses,Afastado
+5510108,Vicente Câmara,Supervisor 7,Segmento 4,Madrugada,até 1 ano,Ativo
+5510109,Igor das Neves,Supervisor 7,Segmento 4,Madrugada,até 6 meses,Ativo
+5510110,Davi Macedo,Supervisor 4,Segmento 2,Noite,até 6 meses,Ativo
+5510111,Allana Rodrigues,Supervisor 3,Segmento 4,Manhã,até 6 meses,Ativo
+5510112,Dra. Luana Vasconcelos,Supervisor 2,Segmento 2,Tarde,até 6 meses,Ativo
+5510113,Ana Laura Martins,Supervisor 4,Segmento 1,Noite,mais de 1 ano,Ativo
+5510114,Dr. Breno Viana,Supervisor 1,Segmento 3,Madrugada,mais de 1 ano,Férias
+5510115,Agatha das Neves,Supervisor 6,Segmento 1,Madrugada,mais de 1 ano,Ativo
+5510116,Maria Clara Monteiro,Supervisor 3,Segmento 4,Madrugada,mais de 1 ano,Férias
+5510117,Davi Lucas Aragão,Supervisor 6,Segmento 2,Tarde,mais de 1 ano,Ativo
+5510118,Ana Brito,Supervisor 3,Segmento 4,Madrugada,até 30 dias,Ativo
+5510119,Ana Clara Vieira,Supervisor 3,Segmento 3,Madrugada,até 6 meses,Ativo
+5510120,Cecília Araújo,Supervisor 2,Segmento 3,Madrugada,até 30 dias,Ativo
+5510121,Dra. Larissa Siqueira,Supervisor 6,Segmento 1,Tarde,mais de 1 ano,Ativo
+5510122,Maria Alice Barbosa,Supervisor 1,Segmento 1,Madrugada,até 1 ano,Ativo
+5510123,Gabriel Pastor,Supervisor 4,Segmento 1,Noite,mais de 1 ano,Ativo
+5510124,Elisa Fogaça,Supervisor 7,Segmento 4,Noite,até 30 dias,Ativo
+5510125,Isabelly Leão,Supervisor 1,Segmento 3,Noite,até 6 meses,Afastado
+5510126,Kevin Sá,Supervisor 1,Segmento 3,Manhã,até 6 meses,Ativo
+5510127,Eduarda das Neves,Supervisor 7,Segmento 3,Tarde,até 6 meses,Ativo
+5510128,Isaque Fernandes,Supervisor 4,Segmento 2,Tarde,mais de 1 ano,Afastado
+5510129,Vitor Hugo Moraes,Supervisor 3,Segmento 4,Tarde,até 30 dias,Ativo
+5510130,Cecilia Gomes,Supervisor 3,Segmento 4,Manhã,até 1 ano,Férias
+5510131,Bella Araújo,Supervisor 6,Segmento 1,Madrugada,até 6 meses,Ativo
+5510132,Rodrigo Gonçalves,Supervisor 5,Segmento 4,Manhã,até 1 ano,Afastado
+5510133,Gustavo da Paz,Supervisor 5,Segmento 4,Manhã,até 1 ano,Férias
+5510134,Luiz Gustavo Rocha,Supervisor 4,Segmento 1,Manhã,até 1 ano,Ativo
+5510135,Dr. Arthur Gabriel Jesus,Supervisor 7,Segmento 4,Madrugada,até 30 dias,Ativo
+5510136,Dr. Luiz Felipe Cardoso,Supervisor 3,Segmento 3,Madrugada,até 6 meses,Ativo
+5510137,Sofia Duarte,Supervisor 2,Segmento 2,Madrugada,mais de 1 ano,Ativo
+5510138,Nathan Cassiano,Supervisor 7,Segmento 4,Noite,até 6 meses,Ativo
+5510139,Sr. Luiz Miguel Peixoto,Supervisor 3,Segmento 4,Tarde,mais de 1 ano,Férias
+5510140,Dr. Gael da Rosa,Supervisor 5,Segmento 3,Noite,até 30 dias,Ativo
+5510141,Juan da Costa,Supervisor 7,Segmento 4,Tarde,mais de 1 ano,Ativo
+5510142,Sr. Gael Nogueira,Supervisor 3,Segmento 4,Noite,até 1 ano,Férias
+5510143,Breno da Costa,Supervisor 6,Segmento 1,Manhã,até 6 meses,Ativo
+5510144,Rebeca Lima,Supervisor 2,Segmento 2,Madrugada,até 6 meses,Afastado
+5510145,Igor Andrade,Supervisor 4,Segmento 1,Madrugada,até 30 dias,Ativo
+5510146,Mariana Brito,Supervisor 3,Segmento 4,Madrugada,até 6 meses,Ativo
+5510147,Rael da Costa,Supervisor 6,Segmento 2,Noite,mais de 1 ano,Férias
+5510148,Luiz Otávio Abreu,Supervisor 5,Segmento 3,Madrugada,até 1 ano,Ativo
+5510149,Luiz Henrique Pinto,Supervisor 6,Segmento 1,Noite,até 1 ano,Ativo
+5510150,Bento Fonseca,Supervisor 2,Segmento 3,Tarde,até 1 ano,Ativo
+5510151,Dra. Emilly Borges,Supervisor 6,Segmento 2,Tarde,até 6 meses,Ativo
+5510152,Isadora Novais,Supervisor 6,Segmento 1,Noite,até 1 ano,Ativo
+5510153,Maria Cecília Mendes,Supervisor 7,Segmento 3,Noite,até 6 meses,Ativo
+5510154,Valentina Lopes,Supervisor 2,Segmento 2,Manhã,até 6 meses,Ativo
+5510155,Arthur Gabriel Ribeiro,Supervisor 1,Segmento 3,Noite,até 6 meses,Afastado
+5510156,Maria Clara Costela,Supervisor 7,Segmento 4,Manhã,até 30 dias,Férias
+5510157,Nina Silveira,Supervisor 3,Segmento 4,Madrugada,mais de 1 ano,Ativo
+5510158,Ana Clara Costela,Supervisor 2,Segmento 3,Noite,mais de 1 ano,Ativo
+5510159,Dr. Rael Nogueira,Supervisor 7,Segmento 3,Madrugada,mais de 1 ano,Ativo
+5510160,Sra. Ana Laura Vieira,Supervisor 5,Segmento 4,Tarde,até 6 meses,Férias
+5510161,Srta. Sophie Marques,Supervisor 3,Segmento 4,Tarde,até 30 dias,Férias
+5510162,Dr. Eduardo Fernandes,Supervisor 7,Segmento 4,Tarde,mais de 1 ano,Ativo
+5510163,Sra. Ísis da Luz,Supervisor 4,Segmento 1,Madrugada,até 1 ano,Férias
+5510164,Thomas Costa,Supervisor 5,Segmento 4,Manhã,até 6 meses,Afastado
+5510165,Ayla Sousa,Supervisor 2,Segmento 2,Manhã,até 6 meses,Ativo
+5510166,Lucca Sales,Supervisor 2,Segmento 3,Tarde,até 30 dias,Ativo
+5510167,Otto Casa Grande,Supervisor 4,Segmento 1,Noite,até 30 dias,Ativo
+5510168,Sr. Carlos Eduardo Pires,Supervisor 3,Segmento 3,Noite,mais de 1 ano,Ativo
+5510169,Murilo Cardoso,Supervisor 6,Segmento 1,Noite,até 6 meses,Ativo
+5510170,Ester Rios,Supervisor 1,Segmento 3,Tarde,até 1 ano,Ativo
+5510171,Mariana Siqueira,Supervisor 1,Segmento 3,Tarde,até 1 ano,Férias
+5510172,Lucas Vasconcelos,Supervisor 6,Segmento 2,Noite,mais de 1 ano,Ativo
+5510173,Luara Fogaça,Supervisor 4,Segmento 1,Madrugada,até 1 ano,Férias
+5510174,Dr. João Vitor Cassiano,Supervisor 5,Segmento 3,Madrugada,até 30 dias,Férias
+5510175,Srta. Alícia Aragão,Supervisor 1,Segmento 1,Noite,até 1 ano,Ativo
+5510176,Ana Beatriz Martins,Supervisor 1,Segmento 3,Manhã,até 1 ano,Férias
+5510177,Dra. Fernanda da Costa,Supervisor 1,Segmento 3,Madrugada,mais de 1 ano,Ativo
+5510178,Laís Cavalcanti,Supervisor 2,Segmento 2,Madrugada,até 30 dias,Ativo
+5510179,Nina Mendes,Supervisor 3,Segmento 4,Noite,até 1 ano,Afastado
+5510180,Gabriela Castro,Supervisor 1,Segmento 3,Noite,mais de 1 ano,Afastado
+5510181,Igor Almeida,Supervisor 4,Segmento 1,Madrugada,até 30 dias,Ativo
+5510182,Emanuella Oliveira,Supervisor 1,Segmento 1,Noite,até 1 ano,Ativo
+5510183,Brayan Vieira,Supervisor 7,Segmento 4,Manhã,mais de 1 ano,Ativo
+5510184,Dr. Luan da Costa,Supervisor 1,Segmento 3,Noite,mais de 1 ano,Afastado
+5510185,Luigi Moreira,Supervisor 4,Segmento 2,Tarde,até 1 ano,Férias
+5510186,Larissa Novais,Supervisor 2,Segmento 2,Madrugada,mais de 1 ano,Ativo
+5510187,Srta. Maria Luísa Sales,Supervisor 1,Segmento 3,Tarde,até 1 ano,Férias
+5510188,Vitor Gabriel Correia,Supervisor 1,Segmento 1,Manhã,até 6 meses,Ativo
+5510189,Maitê Rezende,Supervisor 4,Segmento 2,Tarde,mais de 1 ano,Afastado
+5510190,Maria Júlia Azevedo,Supervisor 3,Segmento 3,Noite,mais de 1 ano,Ativo
+5510191,Dr. José Pedro Rocha,Supervisor 4,Segmento 2,Madrugada,até 6 meses,Ativo
+5510192,Sr. Raul das Neves,Supervisor 2,Segmento 3,Manhã,até 1 ano,Ativo
+5510193,Cauã da Cunha,Supervisor 3,Segmento 3,Noite,até 30 dias,Ativo
+5510194,Rhavi Borges,Supervisor 6,Segmento 1,Madrugada,até 6 meses,Ativo
+5510195,Gustavo Henrique da Paz,Supervisor 5,Segmento 3,Noite,até 1 ano,Férias
+5510196,Clara Aparecida,Supervisor 7,Segmento 4,Madrugada,até 1 ano,Ativo
+5510197,Eloá Mendes,Supervisor 6,Segmento 1,Madrugada,até 6 meses,Ativo
+5510198,Sabrina Martins,Supervisor 1,Segmento 1,Madrugada,mais de 1 ano,Ativo
+5510199,Sophie Duarte,Supervisor 6,Segmento 2,Tarde,mais de 1 ano,Ativo
+5510200,Lívia Vasconcelos,Supervisor 2,Segmento 2,Manhã,mais de 1 ano,Ativo
