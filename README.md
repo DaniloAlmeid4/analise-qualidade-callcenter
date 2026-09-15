@@ -44,8 +44,9 @@ Nota de Monitoria — média das avaliações de qualidade por operador
 
 ## 📸 Preview do Dashboard
 
-![Visão Geral](<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/25af00f4-0e26-488c-87bb-11746e85f806" />
-)
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/d9d2f540-0ff4-47ac-83ca-54c93249985b" />
+
+
 *Visão geral: KPIs consolidados, ranking de operadores e filtros interativos*
 
 
