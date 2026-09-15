@@ -42,6 +42,13 @@ TMA — Tempo Médio de Atendimento em minutos
 ACW — After Call Work (tempo pós-atendimento)
 Nota de Monitoria — média das avaliações de qualidade por operador
 
+## 📸 Preview do Dashboard
+
+![Visão Geral](<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/25af00f4-0e26-488c-87bb-11746e85f806" />
+)
+*Visão geral: KPIs consolidados, ranking de operadores e filtros interativos*
+
+
 
 🗄️ Queries SQL Implementadas
 
